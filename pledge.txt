@@ -1,0 +1,8 @@
+Hello Datacamp, the education company,
+
+I am Pranav Punjani from UTS. I am very keen on learning about R Programming and I have been using the free version for a while and really appreciated what it has to offer. Unfortunately, my univiersity teaches more Python and I want to move to R to learn statistics. Would you be able to grant me a student pro pass?
+
+I would really appreciate your help in this case.
+
+Kind Regards
+Pranav
